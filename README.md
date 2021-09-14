@@ -11,4 +11,4 @@
 1. [Fundamentals of dependency injection](https://developer.android.com/training/dependency-injection)
 1. [Dependency injection, Dagger 2 Simple Examples](https://codinginflow.com/tutorials/android/dagger-2/part-1-introduction)
 1. [Official Dagger Documentation](https://dagger.dev/dev-guide/)
-1. [New Android Injector with Dagger 2](https://iammert.medium.com/new-android-injector-with-dagger-2-part-1-8baa60152abe)
+1. New Android Injector with Dagger 2 [Part 1](https://iammert.medium.com/new-android-injector-with-dagger-2-part-1-8baa60152abe), [Part 2](https://iammert.medium.com/new-android-injector-with-dagger-2-part-2-4af05fd783d0), [Part 3](https://medium.com/android-news/new-android-injector-with-dagger-2-part-3-fe3924df6a89)
